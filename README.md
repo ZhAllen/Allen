@@ -1,2 +1,2 @@
 # Allen
-The codes to game programming
+The codes for game programming
